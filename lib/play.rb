@@ -36,7 +36,7 @@ def turn(board)
 end
 
 def play(board)
-  turns = 9
+  turns = 3
   counter = 0
   loop do
     counter += 1
